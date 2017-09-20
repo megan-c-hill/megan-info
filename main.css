@@ -3,10 +3,12 @@ body{
     padding: 0;
     height: 100%;
     width: 100%;
+    background-color: #fafafa;
+    font-family: "Times New Roman" , serif;
 }
 
 h1{
-    text-align: center;
+    margin: 10px;
 }
 h2{
     margin:15px 5px 5px 5px;
