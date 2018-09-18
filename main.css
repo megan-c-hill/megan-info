@@ -3,7 +3,7 @@ body{
     padding: 0;
     height: 100%;
     width: 100%;
-    background-color: #fafafa;
+    background-image: linear-gradient(to bottom right, #fff, #00eeff);
     font-family: "Times New Roman" , serif;
 }
 
